@@ -59,3 +59,9 @@ Investigates and contains security incidents after an attack or breach.
 
 ## 7. What I Learned
 From this module, I learned that cybersecurity is a field encompassing two sides: offensive and defensive security. Offensive security is about thinking like a hacker to find weaknesses, while defensive security is about protecting systems and responding to threats. Most importantly, I learned that all work related to cybersecurity must be legal, ethical, and permission-based.
+
+## References
+- TryHackMe. "Introduction to Cyber Security." TryHackMe, [https://tryhackme.com/](https://tryhackme.com/module/introduction-to-cyber-security)
+
+## Disclaimer
+This project is for educational purposes only. It summarizes concepts learned through TryHackMe and does not include walkthrough answers, flags, or private room solutions.

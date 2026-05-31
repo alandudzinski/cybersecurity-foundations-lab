@@ -40,6 +40,8 @@ Used as a safe learning environment for cybersecurity.
 
 ## 6. Cybersecurity Careers
 
+Here are some of the different careers one can explore in the field of cybersecurity:
+
 ### SOC Analyst
 Monitors alerts, investigates suspicious activity, and helps respond to threats.
 

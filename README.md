@@ -52,7 +52,7 @@ Builds and maintains secure systems, tools, and infrastructure.
 ### Malware Analyst
 Studies malicious software to understand how it works and how to defend against it.
 
-## Incident Responder
+### Incident Responder
 Investigates and contains security incidents after an attack or breach.
 
 ## 7. What I Learned
